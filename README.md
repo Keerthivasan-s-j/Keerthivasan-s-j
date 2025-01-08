@@ -1,5 +1,7 @@
 # Hi, I'm Keerthivasan S J! 👋
 
+![](https://komarev.com/ghpvc/?username=Keerthivasan-s-j)
+
 👀 Passionate about Machine Learning and Web Development. Currently exploring new fields and applying my knowledge in hands-on projects.
 
 ### 🛠 Skills
