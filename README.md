@@ -1,4 +1,6 @@
-# Hi, I'm Keerthivasan S J! 👋
+<div align = "center">
+  <h1>Hi, I'm Keerthivasan S J! 👋</h1>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=Keerthivasan-s-j)
 
@@ -8,6 +10,7 @@
 - **Languages**: Python, C, Java
 - **Web Development**: HTML, CSS, JavaScript, Django, Streamlit
 - **Database**: MySQL
+
 
 ### 🚀 Projects
 - [Flames Game](https://flames-game.streamlit.app): A fun relationship insights app built with Streamlit.
@@ -20,8 +23,9 @@
 ### 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Keerthivasan-s-j&theme=rising-sun&border_radius=16)](https://git.io/streak-stats)
 
-
 ![Keerthivasan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Keerthivasan-s-j&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthivasan-s-j&layout=compact&theme=tokyonight)
 
 ### 📫 How to Reach Me
 - LinkedIn: [Keerthivasan S J](https://www.linkedin.com/in/keerthivasansj16/)
