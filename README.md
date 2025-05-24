@@ -2,7 +2,7 @@
   <h1>Hi, I'm Keerthivasan S J! 👋</h1>
 </div>
 
-![](https://komarev.com/ghpvc/?username=Keerthivasan-s-j)
+![](https://komarev.com/ghpvc/?username=Keerthivasan-s-j&color=brightgreen)
 
 👀 Passionate about Machine Learning and Web Development. Currently exploring new fields and applying my knowledge in hands-on projects.
 
@@ -28,7 +28,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthivasan-s-j&layout=compact&theme=tokyonight)
 
 ### 📫 How to Reach Me
-- LinkedIn: [Keerthivasan S J](https://www.linkedin.com/in/keerthivasansj16/)
+<a href="https://www.linkedin.com/in/keerthivasansj/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.hackerrank.com/profile/Keerthivasansj" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
+<a href="https://leetcode.com/u/Keerthivasansj/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
+
+### 👨‍💻 LeetCode
+![](https://badges.peiyuan.ch/v2/leetcode/Keerthivasansj)<br>
+![](https://badges.peiyuan.ch/v2/leetcode/Keerthivasansj/solvedProblems?difficulty=All)<br>
+![](https://badges.peiyuan.ch/v2/leetcode/Keerthivasansj/solvedProblems?difficulty=Easy)<br>
+![](https://badges.peiyuan.ch/v2/leetcode/Keerthivasansj/solvedProblems?difficulty=Medium)<br>
+![](https://badges.peiyuan.ch/v2/leetcode/Keerthivasansj/solvedProblems?difficulty=Hard)<br>
 
 <!---
 Keerthivasan-s-j/Keerthivasan-s-j is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
