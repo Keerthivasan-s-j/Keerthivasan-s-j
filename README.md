@@ -32,13 +32,6 @@
 <a href="https://www.hackerrank.com/profile/Keerthivasansj" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
 <a href="https://leetcode.com/u/Keerthivasansj/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
 
-### 👨‍💻 LeetCode
-![](https://badges.peiyuan.ch/v2/leetcode/Keerthivasansj)<br>
-![](https://badges.peiyuan.ch/v2/leetcode/Keerthivasansj/solvedProblems?difficulty=All)<br>
-![](https://badges.peiyuan.ch/v2/leetcode/Keerthivasansj/solvedProblems?difficulty=Easy)<br>
-![](https://badges.peiyuan.ch/v2/leetcode/Keerthivasansj/solvedProblems?difficulty=Medium)<br>
-![](https://badges.peiyuan.ch/v2/leetcode/Keerthivasansj/solvedProblems?difficulty=Hard)<br>
-
 <!---
 Keerthivasan-s-j/Keerthivasan-s-j is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
