@@ -23,9 +23,9 @@
 ### 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Keerthivasan-s-j&theme=rising-sun&border_radius=16)](https://git.io/streak-stats)
 
-![Keerthivasan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Keerthivasan-s-j&show_icons=true&theme=radical)
+![Keerthivasan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Keerthivasan-s-j&show_icons=true&theme=radical&border_radius=16)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthivasan-s-j&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthivasan-s-j&layout=compact&theme=tokyonight&border_radius=16)
 
 ### 📫 How to Reach Me
 <a href="https://www.linkedin.com/in/keerthivasansj/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
