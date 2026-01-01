@@ -8,7 +8,7 @@
 
 ### 🛠 Skills
 - **Languages**: Python, C, Java
-- **Web Development**: HTML, CSS, JavaScript, Django, Streamlit
+- **Web Development**: HTML, CSS, JavaScript, Django, Streamlit, Git, GitHub
 - **Database**: MySQL
 
 
